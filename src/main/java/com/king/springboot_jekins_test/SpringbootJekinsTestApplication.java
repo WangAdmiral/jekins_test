@@ -9,5 +9,4 @@ public class SpringbootJekinsTestApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringbootJekinsTestApplication.class, args);
     }
-
 }
